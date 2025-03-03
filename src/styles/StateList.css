@@ -1,0 +1,16 @@
+.state-list {
+    margin-left: 20px;
+}
+  
+.state-item {
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  

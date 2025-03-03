@@ -1,0 +1,40 @@
+.country-list {
+    margin-top: 20px;
+}
+  
+.country-item {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  
+.edit-btn, .delete-btn {
+    margin: 5px;
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+}
+  
+.edit-btn {
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+}
+
+.edit-btn:hover{
+    background-color: rgb(188, 138, 46);
+}
+  
+.delete-btn {
+    background-color: rgba(218, 17, 17, 0.819);
+    color: white;
+    border-radius: 5px;
+}
+
+.delete-btn:hover{
+    background-color: rgb(193, 94, 94);
+}
+  
